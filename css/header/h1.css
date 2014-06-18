@@ -1,0 +1,396 @@
+/*
+	envor top bar
+*/
+
+.ntv-header-1 .ntv-top-bar {
+	width: 100%;
+	max-height: 40px;
+	text-align: left;
+	position: absolute;
+	top: 132px;
+	background-color: #f1f1f2 !important;
+}
+.ntv-header-1 .ntv-top-bar .container {
+	background-color: #8f0013;
+}
+/*
+	envor top bar Ticker Info information
+*/
+
+.ntv-header-1 .ntv-top-bar .ticker {
+	width: auto;
+	line-height: 40px;
+	margin: 0px;
+	margin-right: 40px;
+	display: inline-block;
+	font-size: 13px;
+	color: #fff
+}
+.ntv-header-1 .ntv-top-bar .ticker i {
+	/*border-radius: 100px;
+	width: 20px;
+	height: 20px;*/
+	line-height: 20px;
+	background: none;
+	text-align: center;
+	font-size: 18px;
+	color: #fff;
+	display: inline-block;
+	margin: 10px 0px;
+	margin-right: 5px;
+}
+.ntv-header-1 .ntv-top-bar .ticker a {
+	color: #fff;
+}
+.ntv-header-1 .ntv-top-bar .ticker p {
+	margin: 0;
+}
+/*
+	envor top bar social buttons
+*/
+
+.ntv-header-1 .ntv-top-bar ul.social-btns {
+	width: auto;
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+.ntv-header-1 .ntv-top-bar ul.social-btns li {
+	width: auto;
+	float: left;
+	width: 40px;
+	height: 40px;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+	overflow: hidden;
+	margin-left: 1px;
+}
+.ntv-header-1 .ntv-top-bar ul.social-btns li a {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	line-height: 40px;
+	height: 40px;
+	float: left;
+	color: #fff;
+	background-color: rgba(000,000,000,0.2);
+	text-align: center;
+	transition-style: linear;
+	transition-duration: 0s;
+}
+.ntv-header-1 .ntv-top-bar ul.social-btns li a.hover {
+	top: 40px;
+}
+
+/*
+	envor top bar shopping cart
+*/
+
+.ntv-header-1 .ntv-top-bar .shopping-cart {
+	width: 40px;
+	height: 40px;
+	position: relative;
+	float: right;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart > span {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart > span i.fa {
+	width: 100%;
+	float: left;
+	line-height: 40px;
+	color: #fff;
+	text-align: center;
+	cursor: pointer;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart > span i.hover {
+	top: 40px;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart .cart {
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	padding: 15px;
+	position: absolute;
+	top: 40px;
+	right: 0px;
+	width: 300px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	z-index: 100;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart .cart p.title {
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+	font-weight: bold;
+	line-height: 100%;
+	color: #333;
+	padding-bottom: 15px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart .cart p.cart-btns {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	float: left;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart .cart p.cart-btns .ntv-btn-small {
+	width: 100%;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart .cart .cart-entry {
+	float: left;
+	width: 100%;
+	margin-bottom: 15px;
+	max-height: 225px;
+	position: relative;
+	overflow: auto;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart .cart .cart-entry p {
+	width: 100%;
+	float: left;
+	margin: 0px;
+	padding: 15px 0px;
+	border: 0px solid #e5e5e5;
+	border-bottom-width: 1px;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart .cart .cart-entry p a {
+	text-transform: capitalize;
+}
+.ntv-header-1 .ntv-top-bar .shopping-cart .cart .cart-entry p .price {
+	width: 100%;
+	float: left;
+}
+
+/*
+	envor header bg
+*/
+
+.ntv-header-1 .ntv-header-bg {
+	background-color: #f1f1f2;
+	width: 100%;
+	float: left;
+	height: 102px;
+}
+.ntv-header-1 .ntv-header-bg .container {
+	background: #ffffff;
+	display: block;
+	position: relative;
+	height: 100%;
+}
+
+/*
+	envor header bg site logo
+*/
+
+.ntv-header-1 .ntv-header-bg .ntv-logo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 30px 0px;
+	border: 0px solid #f00;
+}
+.ntv-header-1 .ntv-header-bg .ntv-logo img {
+	max-height: 40px;
+	float: left;
+	margin-right: 10px;
+}
+.ntv-header-1 .ntv-header-bg .ntv-logo p.logo {
+	margin: 0px;
+	padding: 0px;
+	line-height: 26px;
+	font-size: 28px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #333;
+	position: absolute;
+	left: 50px;
+	top: 30px;
+	max-width: 250px;
+}
+.ntv-header-1 .ntv-header-bg .ntv-logo p.tagline {
+	position: absolute;
+	left: 50px;
+	top: 56px;
+	margin: 0px;
+	padding: 0px;
+	line-height: 14px;
+	color: #999;
+	width: 250px;
+	display: block;
+	border: 0px solid #f00;
+}
+
+/*
+	envor header bg desktop navigation
+*/
+
+.ntv-header-1 .ntv-header-bg nav {
+	width: auto;
+	float: right;
+}
+.ntv-header-1 .ntv-header-bg nav ul, .ntv-header-1 .ntv-header-bg nav li {
+	width: 100%;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.ntv-header-1 .ntv-header-bg nav ul > li {
+	position: relative;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li {
+	width: auto;
+	padding: 0px 20px;
+	line-height: 100px;
+	border-right: 1px solid #f7f5f5;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	margin: 0 0 -4px 0;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li:first-child {
+	border-left: 1px solid #f7f5f5;
+}
+.ntv-header-1 .ntv-header-bg nav .hover {
+	background-color: #40c8f4;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	display: none;
+	z-index: 1;
+}
+
+.ntv-header-1 .ntv-header-bg nav > ul > li ul > li .hover, .ntv-header-1 .ntv-header-bg nav > ul > li ul > li:hover {
+	border-left-width: 0px;
+	border-right-width: 0px;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li > a {
+	font-size: 14.5px;
+}
+.ntv-header-1 .ntv-header-bg nav a, .ntv-header-1 .ntv-header-bg nav a:visited {
+	text-transform: uppercase;
+	position: relative;
+	z-index: 10;
+	font-weight: bold;
+	color: #847f7f
+}
+.ntv-header-1 .ntv-header-bg nav a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li ul {
+	display: none;
+	position: absolute;
+	left: 198px;
+	top: -1px;
+	width: 200px;
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	z-index: 10;
+	border-bottom-width: 0px;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li > ul {
+	left: 0px;
+	top: 101px;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li ul.left {
+	left: auto;
+	right: 0px;
+	top: 101px;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li ul.left ul {
+	left: -200px;
+	top: -1px;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li ul > li {
+	line-height: 40px;
+	border: 0px solid #e5e5e5;
+	border-top-width: 0px;
+	border-bottom-width: 1px;
+	padding-left: 20px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.ntv-header-1 .ntv-header-bg nav > ul > li ul > li > a {
+	text-transform: capitalize;
+	font-weight: normal;
+	font-size: 13px;
+}
+
+/*
+	envor header bg desktop navigation mega menu
+*/
+
+.ntv-header-1 .ntv-mega {
+	top: 101px;
+	right: 0px;
+}
+
+/*
+	light version
+*/
+
+.ntv-header-1 .ntv-light-top-bar {
+	background-color: transparent !important;
+	border: 0px solid #e5e5e5;
+	border-bottom-width: 1px;
+}
+.ntv-header-1 .ntv-light-top-bar p.contacts a {
+	color: #333;
+}
+.ntv-header-1 .ntv-light-top-bar ul.social-btns li {
+	margin-left: 0px;
+}
+.ntv-header-1 .ntv-light-top-bar ul.social-btns li a {
+	background-color: rgba(000,000,000,0);
+	color: #333;
+}
+.ntv-header-1 .ntv-light-top-bar ul.social-btns li a.hover {
+	color: #fff;
+}
+
+/*
+	.ntv-header-1 .ntv-dark-header-bg
+*/
+
+.ntv-header-1 .ntv-dark-header-bg {
+}
+.ntv-header-1 .ntv-dark-header-bg nav > ul > li {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+.ntv-header-1 .ntv-dark-header-bg nav > ul > li > a {
+	color: #fff;
+}
+.ntv-header-1 .ntv-dark-header-bg nav > ul > li:hover > a {
+	color: #333;
+}
+.ntv-header-1 .ntv-dark-header-bg .ntv-logo p.logo {
+	color: #fff;
+}
+.ntv-header-1 .ntv-dark-header-bg {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}

@@ -1,0 +1,48 @@
+name = DRUPAL 7 NTV THEME
+description = Tableless, multi-row, Drupal 7 Semi-Responsive Theme (NTV default) - Created at Outbox (http://outbox.co.ug)
+screenshot = screenshot.png
+core = 7.x
+version = VERSION
+
+regions[content] = 'content' ;; All D7 themes need this.
+regions[responsivemenu] = Responsive Menu Position
+regions[search] = Search
+regions[ticker] = Ticker or Marquee Position
+regions[search] = Search Position
+regions[mainmenu] = Main Menu Position
+regions[topadposition] = Prime Advert Position
+regions[sidebar] = Side/Right Column Position
+regions[bottomcontent] = Bottom Content Position
+regions[linkbuttons] = Button Links Position
+regions[footer_one] = Footer 1
+regions[footer_two] = Footer 2
+regions[footer_three] = Footer 3
+regions[footer_four] = Footer 4
+regions[footer] = Copyright Position
+
+; Bootstrap core CSS
+stylesheets[all][] = css/bootstrap.min.css
+
+; Custom CSS
+stylesheets[all][] = css/animate.css
+stylesheets[all][] = css/jquery.mCustomScrollbar.css
+stylesheets[all][] = css/font-awesome/css/font-awesome.min.css
+
+stylesheets[all][] = css/main.css
+stylesheets[all][] = css/header/h1.css
+stylesheets[all][] = css/responsive.css
+stylesheets[all][] = css/color1.css
+
+; Bootstrap core JavaScript
+scripts[] = js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
+scripts[] = js/vendor/jquery-1.11.0.min.js
+scripts[] = js/vendor/core-1.0.5.js 
+scripts[] = js/bootstrap.min.js 
+scripts[] = js/jquery.mousewheel.min.js 
+scripts[] = js/jquery.stellar.min.js 
+
+; jQuery with jQuery Easing, and jQuery Transit JS
+scripts[] = js/layerslider/jquery-easing-1.3.js 
+scripts[] = js/layerslider/jquery-transit-modified.js 
+
+scripts[] = js/envor.js 

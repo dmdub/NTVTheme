@@ -1,0 +1,165 @@
+/*********************************************
+
+	Secondary Color
+
+*********************************************/
+.ntv-header-1 .ntv-top-bar, .jspTrack, .ntv-mobile-menu, .ntv-layerslider .ntv-layerslider-block, footer.ntv-footer, #ntv-mobile-menu-btn, #ntv-mobile-cart-btn, .ntv-btn-secondary,
+.ntv-project figure figcaption i:hover, .ntv-controls span, #to-the-top, .ntv-header-2 .ntv-header-bg .header-search form button[type=submit].focus,
+.ntv-header-2 .ntv-header-bg .social-buttons ul li a.ntv-cart, .ntv-header-2 .ntv-desktop-dark-menu-bg, .ntv-testimonials-2-inner, .ntv-testimonials-2 .arrow,
+.ntv-estate-form .ntv-estate-search-type span, .ntv-estate-form .ntv-estate-form-item i.fa-caret-down, .ntv-header-1 .ntv-dark-header-bg, .ntv-header-2 .ntv-dark-header-bg,
+.ntv-property-1 figure figcaption i:hover, .ntv-header-3 .ntv-desktop-dark-menu-bg, .ntv-header-3 .ntv-header-dark-bg, .ls-label-secondary, .ntv-domain-price,
+.ntv-domain-search form .ntv-domain-search-inner div.zone i, .ntv-pricing-1 header, .ntv-product-1 figure figcaption i:hover, .ntv-feature-3 span .fa, .ntv-feature-3 span .glyphicon,
+.ntv-testimonials-3 .ntv-testimonials-3-inner .author .avatar, .ntv-tabs header span.active, .ntv-tabs header span.active div.arrow, .ntv-feature-store-dark span,
+.ntv-toggle article header.active, .ntv-social-button-2 .esb-tooltip, .ntv-social-button-2 .esb-tooltip .arrow, .ntv-skill-1 .color-1, .ntv-skill-1 .value, .ntv-skill-1 .value .arrow,
+p.contact-item i, .ntv-side-navi ul li.active, .ntv-sorting .ntv-sorting-filters span.active, .ntv-qa .a .lbl, .ntv-qa .a .arrow, .ntv-pagination .current, .ntv-property-1 p.type span,
+.ntv-single-estate p.type span, .ntv-single-product p.qty i.fa, .ntv-section-cart .shoppin-cart-table thead, .ntv-section-cart .shoppin-cart-table tbody td p.qty i.fa,
+.ntv-post figure figcaption i:hover, .ntv-comment i.fa {
+	background-color: #8f0013;
+}
+.ntv-navigation a, .ntv-section-twitter-1 i.fa-twitter, .ntv-feature-store span i, .ntv-section-color .ntv-navigation a:hover, .ntv-social-button-2-white .esb-main i:hover,
+.ntv-simple-twiiter-widget ul li i.fa-twitter {
+	color: #363b3f;
+}
+.ntv-header-2 .ntv-desktop-dark-menu-bg nav > ul > li, .ntv-header-1 .ntv-dark-header-bg nav > ul > li, .ntv-header-3 .ntv-desktop-dark-menu-bg nav > ul > li {
+	border-left-color: #363b3f;
+}
+.ntv-header-2 .ntv-desktop-dark-menu-bg nav > ul > li, .ntv-header-1 .ntv-dark-header-bg nav > ul > li, .ntv-header-3 .ntv-desktop-dark-menu-bg nav > ul > li {
+	border-right-color: #363b3f;
+}
+.ntv-header-2 .ntv-desktop-dark-menu-bg, .ntv-header-1 .ntv-dark-header-bg, .ntv-header-3 .ntv-desktop-dark-menu-bg {
+	border-bottom-color: #363b3f;
+}
+.ntv-section-color .ntv-navigation a:hover {
+	color: #363b3f !important;
+}
+
+
+
+
+/*********************************************
+
+	Primaty Color
+
+*********************************************/
+
+a:hover, .ntv-top-bar p a:hover, .ntv-header-1 .ntv-top-bar .shopping-cart .cart .cart-entry p .price, .ntv-mega .ntv-mega-section ul li a:hover i,
+.ntv-mobile-menu nav ul li i.glyphicon-plus-sign:hover, .ntv-mobile-menu nav ul li i.glyphicon-minus-sign, .ntv-mobile-menu nav ul li a:hover, .ntv-mobile-menu h3,
+.ntv-layerslider .ntv-layerslider-block h3, .ntv-mobile-cart-list p a:hover, .ntv-mobile-cart-list p span.price, .ntv-footer .ntv-widget .ntv-post-preview .header a:hover,
+.ntv-contacts-widget p .fa, .ntv-contacts-widget p .glyphicon, .ntv-footer a:hover, #ntv-preload i.fa, .ntv-section h2 span,
+.ntv-section p.block-description, .ntv-project .ntv-project-inner .ntv-project-details p.filter, .ntv-project .ntv-project-inner .ntv-project-details .ntv-project-likes .fa,
+.ntv-project .ntv-project-inner .ntv-project-details .ntv-project-likes .glyphicon, .ntv-testimonials-1 i.fa, .ntv-testimonials-1 i.glyphicon,
+.ntv-header-2 .ntv-desktop-dark-menu-bg nav > ul > li > a:hover, .ntv-footer .ntv-widget a:hover, .ntv-contacts-2-widget p span, .ntv-section-core ul li i,
+.ntv-testimonials-2 .fa, .ntv-testimonials-2 .glyphicon, .ntv-header-1 .ntv-dark-header-bg nav > ul > li > a:hover, .ntv-about-widget p.contacts i, .ntv-btn-primary-border,
+.ntv-property-1 ul li, .ntv-header-3 .ntv-header-bg .contact-info p i, .ntv-header-3 .ntv-desktop-dark-menu-bg nav > ul > li > a:hover, .ntv-header-3 .ntv-header-dark-bg .contact-info a:hover,
+.ls-layer p.feature i, .ls-layer p.color-text, .ntv-domain-price p, .ntv-pricing-1 header .plan-title small, .ntv-store-price-1 p.p1, .ntv-product-1 .details span.price,
+.ntv-testimonials-3 .ntv-testimonials-3-inner p.text i, .ntv-testimonials-3 .ntv-testimonials-3-inner .author small, .ntv-section-color li.tweet-item a, ul.e-color-list li i,
+.ntv-testimonials-2 p.author span, .ntv-feature-store p strong, .ntv-toggle article header.active .fa-minus, .ntv-category-widget ul li p a:hover i, blockquote .blockquote-inner .fa,
+p.contact-item i, .ntv-side-navi ul li:hover i, .ntv-pricing-2 .ntv-pricing-2-item .price p, .ntv-partner-1 p.link, .ntv-career-1 .details p.title, .ntv-career-1 header small,
+.ntv-team-1 .ntv-team-1-details p.role, .ntv-testimonials-inner p.author span, p.used-skills span i, p.project-date i, .ntv-property-1 ul li span, .ntv-single-estate p.price,
+.ntv-single-estate .ntv-propert-details ul li span, ul.ntv-property-options li .fa-check-circle, .ntv-store-filters p i:hover, .ntv-single-product p.price,
+.ntv-section-cart ul.order-total li span.total, .payment-option span {
+	color: #e14d43;
+}
+.ntv-header-1 .ntv-top-bar p i, .ntv-header-1 .ntv-top-bar ul.social-btns li a.hover, .ntv-header-1 .ntv-top-bar .shopping-cart > span i.hover, .ntv-btn-primary,
+.jspDrag, .ntv-scroller > i:hover, i.clicked, .ntv-feature header i, .arrow-color, .ntv-controls span.active, .ntv-section-st2, .ntv-header-2 .ntv-header-bg .social-buttons ul li a:hover,
+.ntv-header-2 .ntv-header-bg .social-buttons ul li a.ntv-cart span, .ntv-estate-form .ntv-estate-search-type span.active, .ntv-header-2 .ntv-dark-header-bg .header-search form.focus button[type=submit],
+.ntv-about-widget p.links a:hover,.ntv-property-1 span, .ntv-header-3 .ntv-header-bg .social-buttons a:hover, .ls-label-primary, .ntv-section-st3, .ntv-feature-2-color header .arrow,
+.ntv-pricing-1 header .plan-price, .ntv-pricing-1 header .plan-price .arrow, .ntv-tabs article > .fa, .ntv-tabs article > .glyphicon, .dropcap, .ntv-skill-1 .color-2, .ntv-desktop-breadscrubs-inner,
+.ntv-mobile-breadscrubs, .ntv-skill-2 span.color, .ntv-team-1 header, .ntv-category-widget ul li p span.hovered, .ntv-pricing-2 .ntv-pricing-2-item .plan p,
+.ntv-pricing-2 .ntv-pricing-2-item .plan .arrow, .riva-countdown .riva-countdown-item .label, .ntv-qa .q .lbl, .ntv-qa .q .arrow, .ntv-pagination .page-numbers:hover,
+.ntv-single-estate .ntv-propert-details p.agent-cosial a, .ntv-single-product p.qty i.fa:hover, .ntv-section-cart p.incart span, .ntv-section-cart .shoppin-cart-table tbody td p.qty i.fa:hover,
+.ntv-post header h3 .fa, .ntv-post-author {
+	background-color: #e14d43;
+}
+.clicked, .ntv-feature-2-color header i {
+	background-color: #e14d43 !important;
+}
+.ntv-top-bar .shopping-cart .cart p.title, .ntv-mega .ntv-mega-section h3, .ntv-store-price-1 p.p1, .ntv-single-estate .ntv-propert-details h3, h3.h3-2, .ntv-section-cart .shoppin-cart-table thead,
+.riva-toggle-tab h2, .ntv-comment p.meta {
+	border-bottom-color: #e14d43;
+}
+.ntv-mobile-menu, .ntv-domain-price, .ntv-call-to-action-3, blockquote .blockquote-inner {
+	border-left-color: #e14d43;
+}
+.ntv-post-preview .header .date span.month, .ntv-copyright-widget, .ntv-tabs header span.active, .ntv-toggle article header.active, .ntv-side-navi ul li.active, .ntv-f1,
+.ntv-sorting .ntv-sorting-filters span.active, .ntv-post .date span.month, .ntv-post .likes span.month {
+	border-top-color: #e14d43;
+}
+.ntv-footer .ntv-navigation a:hover, .ntv-flick-widget img:hover, .ntv-navigation a:hover, .ntv-header-2 .ntv-header-bg .header-search form.focus, .ntv-about-widget p.links a:hover,
+.ntv-btn-primary-border, .ntv-header-3 .ntv-header-bg .social-buttons a:hover,
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=password]:focus,
+select:focus, textarea:focus,
+.ntv-pagination .page-numbers:hover,
+.payment-option-active span {
+	border-color: #e14d43;
+}
+.ntv-project figure figcaption, .ntv-property-1 figure figcaption, .ntv-product-1 figure figcaption, .ntv-post-preview figure figcaption, .ntv-post figure figcaption {
+	background-color: rgba(225,77,67,0.8);
+}
+.ntv-navigation a:hover, .ntv-section-color .ntv-navigation a {
+	background-color: rgba(225,77,67,1);
+}
+.ntv-header-2 .ntv-dark-header-bg .social-buttons ul li a.ntv-cart:hover {
+	background-color: rgba(225,77,67,1) !important;
+}
+
+
+
+
+/*********************************************
+
+	Third Color
+
+*********************************************/
+
+.ntv-header-1 .ntv-top-bar .shopping-cart > span i.regular, .ntv-btn:hover, .ntv-controls span:hover, #to-the-top:hover, .ntv-tags-widget a.ntv-tag-item:hover {
+	background-color: #40c8f4;
+}
+.ntv-btn-primary-border:hover, .ntv-btn-secondary-border:hover {
+	border-color: #40c8f4 !important;
+}
+
+
+
+
+
+/*********************************************
+
+	Placeholder
+
+*********************************************/
+
+::-webkit-input-placeholder {
+   color: #ccc;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #ccc;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #ccc;
+}
+
+:-ms-input-placeholder {  
+   color: #ccc;
+}
+
+/*********************************************
+
+   Coming Soon Bg Color
+
+*********************************************/
+
+.ntv-content-404-gradient {
+	background: #363b3f; /* Old browsers */
+	background: -moz-linear-gradient(-45deg,  #363b3f 25%, #e14d43 75%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(25%,#363b3f), color-stop(75%,#e14d43)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(-45deg,  #363b3f 25%,#e14d43 75%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(-45deg,  #363b3f 25%,#e14d43 75%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(-45deg,  #363b3f 25%,#e14d43 75%); /* IE10+ */
+	background: linear-gradient(135deg,  #363b3f 25%,#e14d43 75%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#363b3f', endColorstr='#e14d43',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}

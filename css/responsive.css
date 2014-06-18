@@ -1,0 +1,186 @@
+@media (max-width: 480px) {
+	.ntv-header-1 .ntv-top-bar ul.social-btns, .ntv-header-1 .ntv-top-bar .shopping-cart, .ntv-header-1 .ntv-top-bar p.contacts i, .ntv-header-1 .ntv-header-bg nav,
+	.ntv-header-2 .ntv-header-bg .social-buttons, .ntv-header-2 .ntv-header-bg .header-search, .ntv-header-2 .ntv-desktop-menu-bg, .ntv-header-3 .ntv-header-bg .contact-info,
+	.ntv-header-3 .ntv-desktop-menu-bg, img.shadow, .ntv-desktop-breadscrubs {
+		display: none;
+	}
+	.ntv-header-3 .ntv-header-bg .ntv-logo {
+		float: left;
+	}
+	.container {
+		max-width: 350px;
+	}
+	.ntv-boxed {
+		max-width: 100%;
+	}
+	.ntv-header-1 .ntv-top-bar p.contacts {
+		width: 50%;
+		text-align: center;
+		margin: 0px;
+		float: left;
+	}
+	#ntv-mobile-menu-btn, #ntv-mobile-cart-btn, .ntv-mobile-menu, .ntv-mobile-breadscrubs {
+		display: block;
+	}
+	.ntv-feature, .ntv-feature-2 {
+		margin-bottom: 60px;
+	}
+	.ntv-section-cta2 p span, .ntv-feature-store {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.ntv-page-title-1 .search {
+		margin-top: 20px;
+	}
+	.ntv-partner-1 figure {
+		width: 100px;
+	}
+	.ntv-partner-1 {
+		padding-left: 130px;
+	}
+	.riva-countdown .riva-countdown-item {
+		width: 60px;
+	}
+	.ntv-content-404-inner p.coming {
+		font-size: 300%;
+	}
+	ul.ntv-property-options li {
+		width: 50%;
+	}
+	.ntv-f1 input.sec {
+		margin-left: 0px;
+	}
+	.ntv-f1 input.wide, .ntv-f1 textarea {
+		min-width: 100%;
+	}
+	.payment-option {
+		margin-bottom: 15px;
+		width: 100%;
+	}
+	.ntv-post-2 {
+		padding-left: 75px;
+	}
+	.ntv-post-2 figure {
+		position: relative;
+		max-width: 100%;
+		left: 0px;
+	}
+	.ntv-comment .ntv-comment {
+		padding-left: 30px;
+	}
+	.ntv-comment p.meta .date {
+		float: left;
+		margin-top: 10px;
+	}
+}
+
+
+@media (min-width: 480px) and (max-width: 768px) {
+	.ntv-comment .ntv-comment {
+		padding-left: 30px;
+	}
+	.ntv-comment p.meta .date {
+		float: left;
+		margin-top: 10px;
+	}
+	.payment-option {
+		margin-bottom: 15px;
+		width: 100%;
+	}
+	.ntv-header-1 .ntv-top-bar ul.social-btns, .ntv-header-1 .ntv-top-bar .shopping-cart, .ntv-header-1 .ntv-header-bg nav, .ntv-header-2 .ntv-header-bg .social-buttons,
+	.ntv-header-2 .ntv-desktop-menu-bg, .ntv-header-3 .ntv-header-bg .contact-info p.phone, .ntv-header-3 .ntv-desktop-menu-bg, img.shadow, .ntv-desktop-breadscrubs {
+		display: none;
+	}
+	.container {
+		max-width: 420px;
+	}
+	.ntv-boxed {
+		max-width: 480px;
+	}
+	.ntv-header-1 .ntv-top-bar p.contacts {
+		text-align: left;
+		float: left;
+	}
+	#ntv-mobile-menu-btn, #ntv-mobile-cart-btn, .ntv-mobile-menu, .ntv-mobile-breadscrubs {
+		display: block;
+	}
+	.ntv-feature, .ntv-feature-2 {
+		margin-bottom: 60px;
+	}
+	.ntv-section-cta2 p span, .ntv-feature-store {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.ntv-page-title-1 .search {
+		margin-top: 20px;
+	}
+	ul.ntv-property-options li {
+		width: 50%;
+	}
+	.ntv-f1 input.sec {
+		margin-left: 0px;
+	}
+	.ntv-f1 input.wide, .ntv-f1 textarea {
+		min-width: 100%;
+	}
+	.ntv-post-2 {
+		padding-left: 75px;
+	}
+	.ntv-post-2 figure {
+		position: relative;
+		max-width: 100%;
+		left: 0px;
+	}
+}
+
+
+@media (min-width:768px) and (max-width: 992px) {
+	.ntv-header-1 .ntv-header-bg .ntv-logo p.tagline {
+		width: 160px;
+	}
+	.ntv-header-1 .ntv-header-bg nav ul li, .ntv-header-2 .ntv-desktop-menu-bg nav > ul > li, .ntv-header-3 .ntv-desktop-menu-bg nav > ul > li {
+		padding: 0px 8px;
+	}
+	.ntv-section-cta2 p span {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.ntv-partner-logo .inner {
+		padding: 0px 10px;
+	}
+	.ntv-property-1 ul li span {
+		display: none;
+	}
+	.ntv-property-1 p.title {
+		min-height: 96px;
+	}
+	.ntv-boxed {
+		max-width: 790px;
+	}
+}
+
+
+@media (min-width:992px) and (max-width: 1200px) {
+	.ntv-partner-logo .inner {
+		padding: 0px 20px;
+	}
+	.ntv-header-1 .ntv-header-bg nav ul li, .ntv-header-3 .ntv-desktop-menu-bg nav > ul > li {
+		padding: 0px 15px;
+	}
+	.ntv-property-1 ul li span {
+		display: none;
+	}
+	.ntv-f1 input[type=submit], .ntv-f1 button {
+		margin-left: 0px !important;
+	}
+	.ntv-boxed {
+		max-width: 1020px;
+	}
+}
+
+
+@media (min-width:1200px ) {
+	.ntv-boxed {
+		max-width: 1250px;
+	}
+}
